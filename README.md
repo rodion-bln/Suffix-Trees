@@ -1,4 +1,4 @@
-Balaniuc Rodion 315CB
+Balaniuc Rodion
 
 3.1 Cerința 1
 - Se construiește un arbore de sufixe pentru textele din fișierul de intrare, folosind funcția `append_to_suffix_tree`.
